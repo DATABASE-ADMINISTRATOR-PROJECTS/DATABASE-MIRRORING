@@ -1,5 +1,5 @@
 # DATABASE-MIRRORING
-Database Mirroring is the process of creating the exact copy of your database in another server in real time
+Database Mirroring is the process of creating the exact copy of your database in another server in real time. The Link below shows the full practical on how to configure Datbase Mirroring
 https://youtu.be/Ql2ML6LYzg0
 ## DATABASE MIRRORING
 
